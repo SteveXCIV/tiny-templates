@@ -1,0 +1,18 @@
+{
+    "author": "Steve Troetti",
+    "classifications": [ "Common", "Console", "Library" ],
+    "name": "Class File",
+    "identity": "TinyTemplates.ClassFile",
+    "shortName": "classfile",
+    "tags": {
+        "language": "C#"
+    },
+    "sourceName": "Class1",
+    "symbols": {
+        "namespace": {
+            "type": "parameter",
+            "defaultValue": "Project",
+            "replaces": "Namespace"
+        }
+    }
+}
