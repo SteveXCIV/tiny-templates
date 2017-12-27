@@ -1,0 +1,18 @@
+{
+    "author": "Steve Troetti",
+    "classifications": [ "Common", "Console", "Library" ],
+    "name": "Module File",
+    "identity": "TinyTemplates.ModuleFile",
+    "shortName": "modfile",
+    "tags": {
+        "language": "F#"
+    },
+    "sourceName": "Mod1",
+    "symbols": {
+        "namespace": {
+            "type": "parameter",
+            "defaultValue": "Project",
+            "replaces": "Namespace"
+        }
+    }
+}
